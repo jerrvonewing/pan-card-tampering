@@ -8,3 +8,4 @@ scikit-image==0.17.2
 numpy==1.23.1
 protobuf==3.19.4
 Jinja2==3.0.3
+itsdangerous==2.1.2
